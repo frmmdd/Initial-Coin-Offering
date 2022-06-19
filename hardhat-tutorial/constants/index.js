@@ -1,3 +1,0 @@
-const CRYPTO_DEVS_NFT_CONTRACT_ADDRESS = "0xee1fdf3fa24f154ea1f5f1dafe2a2103a5d7c6b6";
-
-module.exports = { CRYPTO_DEVS_NFT_CONTRACT_ADDRESS };
